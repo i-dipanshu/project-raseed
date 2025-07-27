@@ -1,0 +1,7 @@
+{
+  "name": "Raseed: AI Financial Assistant",
+  "description": "An agentic AI-powered financial assistant for multimodal receipt ingestion, advanced budgeting, and personalized spending insights. Upload receipts, track expenses, and chat with an AI for financial guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
